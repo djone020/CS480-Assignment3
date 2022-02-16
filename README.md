@@ -18,6 +18,7 @@ This project is written in Python 3.10
 I have written this program in PyCharm 2021.3.
 
 ## Code Examples
+![image](Screen Shot 2022-02-16 at 4.51.44 PM.png)
 
 ## Tests
 This code can be tested with the following website http://www.websodoku.com. There are levels available ranging from easy to evil. 
