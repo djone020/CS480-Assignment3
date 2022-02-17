@@ -18,7 +18,8 @@ This project is written in Python 3.10
 I have written this program in PyCharm 2021.3.
 
 ## Code Examples
-![image](ScreenShot1.png)
+![ScreenShot1 ](https://user-images.githubusercontent.com/72675281/154387340-a6ed6c75-7f28-46a8-bdd4-0d93e8d453d9.png)
+
 
 ## Tests
 This code can be tested with the following website http://www.websodoku.com. There are levels available ranging from easy to evil. 
